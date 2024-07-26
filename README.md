@@ -1,2 +1,5 @@
-# DereDev-Imagica'24
- Interactive children education website
+# SDP
+
+-> Clone this Repo
+-> npm i
+-> npm run dev
